@@ -1,5 +1,5 @@
-Author : Girish Bathala, UCSDs
-Title : Transformation between strings ( C++ )
+## Author : Girish Bathala, UCSDs
+## Title : Transformation between strings ( C++ )
 
 # Description
 Transformation of a string from source to destination using only 4 possible operations. Add a charactrer, Delete a character, Replace a character, Replace with anagram. The cost of each operation is given as an input.
@@ -8,8 +8,8 @@ Input : Associated cost with each of the above operations :
 Say : n1 n2 n3 n4 or 1 3 4 5
 The source and destination strings
 
-
 Output : The cost of transforming one word to another or "-1" if it's not possible
+
 Assumptions : ( According to the sample test cases given in the challenge )
 1] Minimum length of each interim word is 3
 2] Each word consists of only "CAPITAL" letter (26 in number), 
