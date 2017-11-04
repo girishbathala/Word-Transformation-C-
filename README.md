@@ -10,11 +10,11 @@ The source and destination strings
 Output : The cost of transforming one word to another or "-1" if it's not possible
 
 Assumptions : ( According to the sample test cases given in the challenge )
-1] Minimum length of each interim word is 3
+1] Minimum length of each interim word is 3 \\
 2] Each word consists of only "CAPITAL" letter (26 in number), 
-   if incorperating other ASCII characters the code can be changed accordingly
+   if incorperating other ASCII characters the code can be changed accordingly\\
 3] The weight of each edge is positive ( no negative egde weights or cycles ).
-   This is required to apply dijkstra's algorithm
+   This is required to apply dijkstra's algorithm\\
 
 *************************************************************************************
 # Directory Structure :
