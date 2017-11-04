@@ -16,13 +16,13 @@ Assumptions : ( According to the sample test cases given in the challenge )<br /
 3] The weight of each edge is positive ( no negative egde weights or cycles ).
    This is required to apply dijkstra's algorithm<br />
 
-*************************************************************************************<br />
+
 # Directory Structure :
 headers - Dictionary.h, Graph.h	( Class definitions )<br />
 sources	- main.cpp,Dictionary.cpp, Graph.cpp ( Main program and class implementations )<br />
 README.txt - read this file for usage before execution<br />
 out	- Executable file<br />
-*************************************************************************************<br />
+
 # Usage:
 1] :$command_prompt: make<br />
 If out is up-to-date use :<br />
@@ -44,4 +44,4 @@ HANDS<br />
 5] Output is displayed. Two cases:<br />
 a) Shortest cost path from source to destination<br />
 b) '-1' if there is no existing path<br />
-*************************************************************************************<br />
+
